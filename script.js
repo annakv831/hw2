@@ -18,4 +18,5 @@ console.log(word);
 newUser ='John';
 
 console.log('newUser-', newUser);
+console.log('userSurname', userSurname);
 console.log('age-',age);
